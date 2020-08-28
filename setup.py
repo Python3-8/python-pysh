@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='python-pysh',
-    version='0.0.1',
+    version='0.0.2',
     description='A Python package that mimics the Oh-My-ZSH shell. This package creates a colorful ZSH prompt.',
     long_description=readme(),
     long_description_content_type='text/markdown',
